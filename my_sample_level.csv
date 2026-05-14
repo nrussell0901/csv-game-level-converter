@@ -1,0 +1,6 @@
+x,y,type,id
+0,0,wall,wall_1
+1,0,floor,floor_1
+2,1,enemy,enemy_1
+3,2,coin,coin_1
+4,2,exit,exit_1
